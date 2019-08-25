@@ -2,7 +2,7 @@
 
 Flutter APP
 
-<a href="https://github.com/doyle-jspy/flutterDesign/blob/master/design1/lib/main.dart"> Go ! </a>
+<a href="https://github.com/doyle-jspy/flutterDesign/tree/master/design1/lib"> Go ! </a>
 
 # ScreenShot
 <img src="../etc/Screenshot_1566720249.png" width="50%"></img>
